@@ -1,0 +1,10 @@
+eligible RIDs: [1, 5]
+records: [{'name': 'Asha', 'country': 'AU', 'status': 'ACTIVE', 'risk': 'LOW', 'age': 68, 'segment': 'GOLD', 'channel': 'WEB'}, {'name': 'Eli', 'country': 'AU', 'status': 'ACTIVE', 'risk': 'LOW', 'age': 55, 'segment': 'SILVER', 'channel': 'MOBILE'}]
+senior eligible: [{'name': 'Asha', 'country': 'AU', 'status': 'ACTIVE', 'risk': 'LOW', 'age': 68, 'segment': 'GOLD', 'channel': 'WEB'}]
+shared: ['audit_recorded', 'identity_verified', 'request_accepted']
+A only: ['payment_authorised']
+B only: ['risk_checked']
+Jaccard: 0.6
+SVG written to: examples/output/query_expression.svg
+SVG written to: examples/output/eligible_set_diagram.svg
+SVG written to: examples/output/five_predicates_set_diagram.svg

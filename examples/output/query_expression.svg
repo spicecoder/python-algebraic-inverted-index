@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="876" height="486" viewBox="0 0 876 486">
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="32" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111827">Set Algebra Query</text>
+<path d="M 438.0 108.0 C 438.0 145.0, 330.0 145.0, 330.0 182.0" stroke="#94A3B8" stroke-width="1.5" fill="none"/>
+<path d="M 330.0 226.0 C 330.0 263.0, 222.0 263.0, 222.0 300.0" stroke="#94A3B8" stroke-width="1.5" fill="none"/>
+<path d="M 222.0 344.0 C 222.0 381.0, 114.0 381.0, 114.0 418.0" stroke="#94A3B8" stroke-width="1.5" fill="none"/>
+<path d="M 222.0 344.0 C 222.0 381.0, 330.0 381.0, 330.0 418.0" stroke="#94A3B8" stroke-width="1.5" fill="none"/>
+<path d="M 330.0 226.0 C 330.0 263.0, 546.0 263.0, 546.0 300.0" stroke="#94A3B8" stroke-width="1.5" fill="none"/>
+<path d="M 546.0 344.0 C 546.0 381.0, 546.0 381.0, 546.0 418.0" stroke="#94A3B8" stroke-width="1.5" fill="none"/>
+<path d="M 438.0 108.0 C 438.0 145.0, 762.0 145.0, 762.0 182.0" stroke="#94A3B8" stroke-width="1.5" fill="none"/>
+<rect x="348.0" y="64.0" width="180" height="44" rx="18" ry="18" fill="#EEF3FF" stroke="#3B82F6" stroke-width="1.5"/><text x="438.0" y="86.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0F172A">OR</text>
+<rect x="240.0" y="182.0" width="180" height="44" rx="18" ry="18" fill="#EEF3FF" stroke="#3B82F6" stroke-width="1.5"/><text x="330.0" y="204.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0F172A">AND</text>
+<rect x="132.0" y="300.0" width="180" height="44" rx="18" ry="18" fill="#EEF3FF" stroke="#3B82F6" stroke-width="1.5"/><text x="222.0" y="322.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0F172A">AND</text>
+<rect x="24.0" y="418.0" width="180" height="44" rx="8" ry="8" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5"/><text x="114.0" y="440.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0F172A">country = AU</text>
+<rect x="240.0" y="418.0" width="180" height="44" rx="8" ry="8" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5"/><text x="330.0" y="440.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0F172A">status = ACTIVE</text>
+<rect x="456.0" y="300.0" width="180" height="44" rx="18" ry="18" fill="#EEF3FF" stroke="#3B82F6" stroke-width="1.5"/><text x="546.0" y="322.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0F172A">NOT</text>
+<rect x="456.0" y="418.0" width="180" height="44" rx="8" ry="8" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5"/><text x="546.0" y="440.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0F172A">risk = HIGH</text>
+<rect x="672.0" y="182.0" width="180" height="44" rx="8" ry="8" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5"/><text x="762.0" y="204.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0F172A">60 &lt;= age &lt;= 80</text>
+</svg>
